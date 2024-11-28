@@ -1,0 +1,10 @@
+nav {
+    display: flex;
+    align-items: center;
+}
+
+img.user-avatar {
+    width: 250px;
+    height: 150px;
+    margin-left: 180px;
+}
